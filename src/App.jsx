@@ -3,7 +3,7 @@ import { Title } from "./Title.jsx";
 
 function App() {
    return (
-    <div>
+    <div className='mainbox'>
       <Title />
       <Title />
     </div>
